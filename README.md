@@ -32,10 +32,8 @@ The **Java Rock, Paper, Scissors Game** is a simple implementation of the classi
 2. Navigate into the project directory:
     ```bash
     cd RockPaperJava
-    ```
-    ```cd src
-    ```
-    ```cd rockPaperScissors
+    cd src
+    cd rockPaperScissors
     ```
 
 3. Compile the Java file:
@@ -52,8 +50,7 @@ The **Java Rock, Paper, Scissors Game** is a simple implementation of the classi
 
 After installation, simply run the program. It will display a countdown followed by the computer's random choice (Rock, Paper, or Scissors), and the game will print the result of the round.
 
-Example output: ```Rock... Paper... Scissors... Shoot! Rock
-```
+Example output: ```Rock... Paper... Scissors... Shoot! Rock```
 
 ## Configuration
 
