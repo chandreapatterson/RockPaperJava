@@ -45,6 +45,10 @@ The **Java Rock, Paper, Scissors Game** is a simple implementation of the classi
     ```bash
     java Main
     ```
+    OR
+   ```
+   java Main.java
+   ```
 
 ## Usage
 
